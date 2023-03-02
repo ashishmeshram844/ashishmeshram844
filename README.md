@@ -8,11 +8,3 @@ Ashish Meshram
 </p>
 
 
-
-<p align='center'>
-  My Projects<br/><br>
-
-  <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishmeshram844">
-  </a>
-</p>
