@@ -1,19 +1,20 @@
 <div align='center'>
   <div class="loader">
-    <span>W</span>
-    <span>e</span>
-    <span>b</span>
-    <span>s</span>
-    <span>i</span>
-    <span>t</span>
-    <span>e</span>
+    <span>A</span>
+    <span>A</span>
+    <span>S</span>
+    <span>H</span>
+    <span>I</span>
+    <span>S</span>
+    <span>H</span>
     <span>_</span>
     <span>M</span>
-    <span>e</span>
-    <span>n</span>
-    <span>t</span>
-    <span>o</span>
-    <span>r</span>
+    <span>E</span>
+    <span>S</span>
+    <span>H</span>
+    <span>R</span>
+    <span>A</span>
+    <span>M</span>
   </div>
 </div>
 
