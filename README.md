@@ -1,6 +1,6 @@
-<p align='center'>
+<h4 align='center'>
   <marquee>Ashish Meshram </marquee> 
-</p>
+</h4>
 
 <p align="center">  
   Visitor count<br>
