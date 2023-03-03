@@ -24,5 +24,7 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmeshram844&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
+<div style="align:center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmeshram844&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
